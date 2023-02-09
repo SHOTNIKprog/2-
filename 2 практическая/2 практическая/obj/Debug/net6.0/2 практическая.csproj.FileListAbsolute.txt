@@ -1,0 +1,15 @@
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\bin\Debug\net6.0\2 практическая.exe
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\bin\Debug\net6.0\2 практическая.deps.json
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\bin\Debug\net6.0\2 практическая.runtimeconfig.json
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\bin\Debug\net6.0\2 практическая.dll
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\bin\Debug\net6.0\2 практическая.pdb
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.csproj.AssemblyReference.cache
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.AssemblyInfoInputs.cache
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.AssemblyInfo.cs
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.csproj.CoreCompileInputs.cache
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.dll
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\refint\2 практическая.dll
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.pdb
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\2 практическая.genruntimeconfig.cache
+C:\Users\79292\source\repos\2 практос\2 практическая\2 практическая\obj\Debug\net6.0\ref\2 практическая.dll
